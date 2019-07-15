@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1526344298 source:c:\users\breno\documents\programação\aed 2\dijkstra\grafo.c
+	<stdio.h>
+	<stdlib.h>
+	"Grafo.h"
+
+1526341740 c:\users\breno\documents\programação\aed 2\dijkstra\grafo.h
+
+1526342170 source:c:\users\breno\documents\programação\aed 2\dijkstra\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Grafo.h"
+
+1550010214 source:c:\users\breno\documents\estudos\programação\aed 2\dijkstra\grafo.c
+	<stdio.h>
+	<stdlib.h>
+	"Grafo.h"
+
+1550010214 c:\users\breno\documents\estudos\programação\aed 2\dijkstra\grafo.h
+
+1550010214 source:c:\users\breno\documents\estudos\programação\aed 2\dijkstra\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Grafo.h"
+
